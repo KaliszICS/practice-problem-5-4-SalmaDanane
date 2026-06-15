@@ -1,8 +1,8 @@
 /*
 
-	Author
-	Date created
-	Date last modified
+	Author - salma danane
+	Date created - june 10th 2026
+	Date last modified - june 15 2026
 	File name - Arrays, split, swapping
 */
 
